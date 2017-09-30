@@ -1,0 +1,45 @@
+label {
+    display: inline-block;
+    vertical-align: top;
+    width: 150px;
+    text-align: left;
+}
+
+input[type="submit"]{
+    width: 125px;
+    height: 50px;
+}
+
+.inlineBlock {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.card {
+    width: 300px;
+    height: 100px;
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+
+#leftBox {
+    width: 55%;
+}
+
+#rightBox {
+    text-align: right;
+    margin-left: 100px;
+    width: 30%;
+}
+
+#container {
+    width: 970px;
+    height: 800px;
+    margin: auto;
+    font-family: Verdana,sans-serif;
+    padding: 20px;
+    background-color: silver;
+}
